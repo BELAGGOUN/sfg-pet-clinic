@@ -49,5 +49,9 @@
 			</plugin>
 		</plugins>
 	</build>
-
+	<!-- We added SCM :source control  Management (Git) to permet to maven release plugin
+	to tag the vrsion inside the SCM -->
+	<scm>
+		<developerConnection>scm:git:git@github.com:BELAGGOUN/sfg-pet-clinic.git</developerConnection>
+	</scm>
 </project>
