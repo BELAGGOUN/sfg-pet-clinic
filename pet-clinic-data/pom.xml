@@ -3,7 +3,7 @@
     <parent>
         <artifactId>sfg-pet-clinic</artifactId>
         <groupId>guru.springframework</groupId>
-        <version>0.0.4</version>
+        <version>0.0.5-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
     <artifactId>pet-clinic-data</artifactId>
@@ -54,8 +54,4 @@
             </plugin>
         </plugins>
     </build>
-
-  <scm>
-    <tag>sfg-pet-clinic-0.0.4</tag>
-  </scm>
 </project>
