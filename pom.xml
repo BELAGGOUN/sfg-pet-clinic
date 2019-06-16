@@ -20,7 +20,7 @@
 	<artifactId>sfg-pet-clinic</artifactId>
 
 
-	<version>0.0.4-SNAPSHOT</version>
+	<version>0.0.4</version>
  	<name>sfg-pet-clinic</name>
 	<description>sfg pet cliinic demo</description>
 
@@ -53,6 +53,6 @@
 	to tag the vrsion inside the SCM -->
 	<scm>
 		<developerConnection>scm:git:git@github.com:BELAGGOUN/sfg-pet-clinic.git</developerConnection>
-	  <tag>HEAD</tag>
+	  <tag>sfg-pet-clinic-0.0.4</tag>
   </scm>
 </project>
