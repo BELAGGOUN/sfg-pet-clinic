@@ -51,7 +51,7 @@
 	<!-- We added SCM :source control  Management (Git) to permet to maven release plugin
 	to tag the vrsion inside the SCM -->
 	<scm>
-		<developerConnection>scm:git:git@github.com:XXXXXX/XXXX.git</developerConnection>
+		<developerConnection>scm:git:git@github.com:BELAGGOUN/sfg-pet-clinic.git</developerConnection>
 	  <tag>sfg-pet-clinic-0.0.5</tag>
   </scm>
 </project>
