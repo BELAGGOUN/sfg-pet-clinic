@@ -18,7 +18,7 @@
 
 	<groupId>guru.springframework</groupId>
 	<artifactId>sfg-pet-clinic</artifactId>
-	<version>0.0.5-SNAPSHOT</version>
+	<version>0.0.5</version>
  	<name>sfg-pet-clinic</name>
 	<description>sfg pet cliinic demo</description>
 
@@ -52,6 +52,6 @@
 	to tag the vrsion inside the SCM -->
 	<scm>
 		<developerConnection>scm:git:git@github.com:XXXXXX/XXXX.git</developerConnection>
-	  <tag>HEAD</tag>
+	  <tag>sfg-pet-clinic-0.0.5</tag>
   </scm>
 </project>
