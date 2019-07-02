@@ -33,8 +33,7 @@ public abstract class AbstractMapService <T extends BaseEntity,ID extends Long> 
     {
      map.entrySet().removeIf(entry -> entry.getValue().equals(object));
     }
-     private  Long getNextId()
-     { Long nextId=null;
+     private  Long getNextId() { Long nextId=null;
           //if there is no element on the map we can't get the max from the collection so we catch the
          // execption NoSuchElementException to assign the first value of the ID
         try {
