@@ -4,6 +4,5 @@ import guru.springframework.sfgpetclinic.model.Pet;
 import guru.springframework.sfgpetclinic.model.Vet;
 import org.springframework.data.repository.CrudRepository;
 
-public
-interface VetRepository extends CrudRepository<Vet,Long> {
+public interface VetRepository extends CrudRepository<Vet,Long> {
 }
